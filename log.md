@@ -27,4 +27,11 @@
 **Link to work:** No link to my work today; sorry! 
 
 
+### Day 4: September 4, 2022 
+
+**Today's Progress**: Still working on building my translation application using GoogleAppsScript. Today was mostly spent debugging and trying to get my application to run.  
+
+**Thoughts:** Today was sort of frustrating; not being able to see the output I wanted in my program. I really like that I stuck with this and tried to fix the problem. Will try again tomorrow.  
+
+**Link to work:** No link today!
 
